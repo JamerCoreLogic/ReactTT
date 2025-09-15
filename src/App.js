@@ -12,7 +12,7 @@ import "./assets/css/globals.css";
 import About from './components/about';
 import Home from './components/home';
 import Task from './components/task/taskList';
-import Project from './components/project/projectList';
+
 
 
 const App = () => {
@@ -23,7 +23,7 @@ const App = () => {
         <Sidebar/>
         <main id="main" className="main">
         <Routes>
-        <Route path="/project" element={<Project />} />
+        
           <Route path="/about" element={<About />} />
           <Route path="/" element={<Home />} />
           <Route path="/task" element={<Task />} />
