@@ -11,11 +11,9 @@ import "./assets/css/style.css";
 import "./assets/css/globals.css";
 import About from './components/about';
 import Home from './components/home';
-<<<<<<< HEAD
 import Task from './components/task/taskList';
-=======
 import Project from './components/project/projectList';
->>>>>>> 9c503cce (updated env)
+
 
 const App = () => {
   return (
