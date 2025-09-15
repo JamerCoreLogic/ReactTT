@@ -2,6 +2,7 @@
   "name": "react-timesheet",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/ReactTT"
   "dependencies": {
     "@ag-grid-community/client-side-row-model": "^31.0.2",
     "@ag-grid-enterprise/range-selection": "^31.0.2",
